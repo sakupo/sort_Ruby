@@ -1,7 +1,7 @@
 # sort_Ruby
 Sort algorithm by Ruby.
 
-The initial state is $\ldots$
-- *+.rb $\cdots$ a forward order.
-- *-.rb $\cdots$ a reverse order.
-- others $\cdots$ a random order.
+The initial state is ...
+- *+.rb :  a forward order.
+- *-.rb :  a reverse order.
+- others :  a random order.
